@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BagiCode</string>
+    <string name="textview_panjang">Panjang</string>
+    <string name="textview_Lebar">Lebar</string>
+    <string name="textview_Tinggi">Tinggi</string>
+    <string name="buttonview_hitung">hitung</string>
+    <string name="textView_Hasil">HASIL</string>
+    <string name="intent">move to next intent</string>
+
+</resources>
